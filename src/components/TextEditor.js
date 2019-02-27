@@ -47,7 +47,7 @@ export default class TextEditor extends Component {
 		switch (e.key) {
 			/* When "b" is pressed, add a "bold" mark to the text. */
 			case 'b': {
-				change.addMark('bold');
+				change.toggleMark('bold');
 				return true;
 			}
 			default:
