@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 import './App.css';
-import { TextEditor } from './components';
+import {TextEditor} from './components';
 
 class App extends Component {
 	render() {

@@ -3,13 +3,13 @@
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
-		"immutable": "^4.0.0-rc.12",
-		"react": "^16.8.3",
-		"react-dom": "^16.8.3",
-		"react-icons-kit": "^1.2.1",
-		"react-scripts": "2.1.5",
-		"slate": "^0.44.10",
-		"slate-react": "^0.21.16"
+		"immutable": "3.8.2",
+		"react": "16.4.1",
+		"react-dom": "16.4.1",
+		"react-icons-kit": "1.1.6",
+		"react-scripts": "1.1.4",
+		"slate": "0.34.5",
+		"slate-react": "0.13.2"
 	},
 	"scripts": {
 		"start": "react-scripts start",
